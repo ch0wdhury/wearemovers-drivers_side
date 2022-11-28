@@ -3,6 +3,9 @@
 	.navbar-brand.custom_brand {
 	    width: 70%;
 	}
+	.list-unstyled.row {
+		margin-bottom: 0px;
+	}
 	.driver-details-buttons-wrapper ul li {
 		margin-bottom: 10px;
 	}
@@ -93,6 +96,9 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
 	.navbar-brand.custom_brand {
 	    width: 45%;
+	}
+	.list-unstyled.row {
+		margin-bottom: 0px;
 	}
 	.driver-details-buttons-wrapper ul li {
 		margin-bottom: 15px;
