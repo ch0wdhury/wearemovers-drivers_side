@@ -381,6 +381,12 @@ input[type="checkbox"].switch_1:checked:after{
   font-weight: 600;
   font-size: 22px;
 }
+  .btn-accept-dark {
+    background-color: #444;
+  }
+  .btn-reject-red {
+    background-color: #D9544F;
+  }
 /* Message Section */
 .media-body .media-heading {
   color: #444444;
@@ -425,7 +431,6 @@ div.active, .active a h5, .active a small {
 }
 .send-wrap {
   padding: 0px 5px;
-
 }
 /* Message Section */
 /* Document Uploader For Drivers */

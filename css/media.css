@@ -94,6 +94,26 @@
 		margin-top: 20px;
 		border-top: 5px solid #555555;
 	}
+	.available-jobs-mobile-content {
+		border-top: 1px solid #f2f2f2;
+		padding: 20px 0;
+		padding-bottom: 0px;
+	}
+	.available-jobs-mobile-content h4 {
+	  font-size: 18px;
+	}
+	.available-jobs-mobile-content p {
+		margin-bottom: 0;
+		line-height: 1.8;
+	}
+	.customer-description-box-aj {
+		background-color: #EEEEEE;
+		padding: 10px;
+		font-size: 14px;
+		border-radius: 4px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -150,6 +170,26 @@
 		margin-top: 20px;
 		border-top: 5px solid #555555;
 	}
+	.available-jobs-mobile-content {
+		border-top: 1px solid #f2f2f2;
+		padding: 20px 0;
+		padding-bottom: 0px;
+	}
+	.available-jobs-mobile-content h4 {
+	  font-size: 18px;
+	}
+	.available-jobs-mobile-content p {
+		margin-bottom: 0;
+		line-height: 1.8;
+	}
+	.customer-description-box-aj {
+		background-color: #EEEEEE;
+		padding: 10px;
+		font-size: 14px;
+		border-radius: 4px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
 }
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -189,6 +229,32 @@
 	}
 	.footer-description ul li, .footer-description p, .footer-description a {
 		 font-size: 12px;
+	}
+	.available-jobs-mobile-content {
+		border-top: 1px solid #f2f2f2;
+		padding: 20px 0;
+		padding-bottom: 0px;
+	}
+	.available-jobs-mobile-content h4 {
+	  font-size: 20px;
+	}
+	.available-jobs-mobile-content p {
+		margin-bottom: 0;
+		line-height: 1.8;
+	}
+	.customer-description-box-aj {
+		background-color: #EEEEEE;
+		padding: 10px;
+		font-size: 14px;
+		border-radius: 4px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.btn-accept-dark {
+		background-color: #444;
+	}
+	.btn-reject-red {
+		background-color: #D9544F;
 	}
 
 }
